@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class App extends JFrame{
+public class App{
     private JPanel pnlMain;
     private JRadioButton rbCustomer;
     private JRadioButton rbClerk;
